@@ -1,0 +1,19 @@
+{
+  "name": "vuforia-spatial-toolbox-object-default-files",
+  "version": "1.0.0",
+  "description": "shared files between vst projects",
+  "main": "object.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ptcrealitylab/vuforia-spatial-toolbox-object-default-files.git"
+  },
+  "author": "realityLab@ptc.com",
+  "license": "MPL-2.0",
+  "bugs": {
+    "url": "https://github.com/ptcrealitylab/vuforia-spatial-toolbox-object-default-files/issues"
+  },
+  "homepage": "https://github.com/ptcrealitylab/vuforia-spatial-toolbox-object-default-files#readme"
+}
