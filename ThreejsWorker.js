@@ -1,6 +1,6 @@
-import {GLCommandBufferContext, CommandBufferFactory, CommandBuffer, WebGLSyncStrategy, WebGLStrategy} from "/objectDefaultFiles/glCommandBuffer.js";
-import {MessageInterface} from '/objectDefaultFiles/WorkerFactory.js';
-import * as THREE from '/objectDefaultFiles/three/three.module.js';
+import {GLCommandBufferContext, CommandBufferFactory, CommandBuffer, WebGLSyncStrategy, WebGLStrategy} from "./glCommandBuffer.js";
+import {MessageInterface} from './WorkerFactory.js';
+import * as THREE from './three/three.module.js';
 
 /**
  * interfaces with three.js and intializes the engine for the rest of the tool to use for rendering

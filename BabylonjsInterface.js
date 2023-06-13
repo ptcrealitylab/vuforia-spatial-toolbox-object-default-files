@@ -1,4 +1,4 @@
-import {WebGLStrategy} from "/objectDefaultFiles/glCommandBuffer.js";
+import {WebGLStrategy} from "./glCommandBuffer.js";
 
 /**
  * @typedef {import("./object.js").SpatialInterface} SpatialInterface

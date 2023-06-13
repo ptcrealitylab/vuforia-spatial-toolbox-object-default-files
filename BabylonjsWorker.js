@@ -1,6 +1,6 @@
-import {GLCommandBufferContext, CommandBufferFactory, CommandBuffer, WebGLSyncStrategy, WebGLStrategy} from "/objectDefaultFiles/glCommandBuffer.js";
-import {MessageInterface} from '/objectDefaultFiles/WorkerFactory.js';
-import '/objectDefaultFiles/babylon/babylon.max.js';
+import {GLCommandBufferContext, CommandBufferFactory, CommandBuffer, WebGLSyncStrategy, WebGLStrategy} from "./glCommandBuffer.js";
+import {MessageInterface} from './WorkerFactory.js';
+import './babylon/babylon.max.js';
 
 /**
  * interfaces with babylon.js and intializes the engine for the rest of the tool to use for rendering
