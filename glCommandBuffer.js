@@ -1,5 +1,5 @@
 import {DeviceDescription, GLState, Handle} from "./glState.js"
-import { WorkerMessageInterface, WorkerFactory, WebWorkerFactory, DynamicScriptFactory, SelfMessageInterface, FactoryMessageInterface } from "/objectDefaultFiles/WorkerFactory.js";
+import { WorkerMessageInterface, WorkerFactory, WebWorkerFactory, DynamicScriptFactory, SelfMessageInterface, FactoryMessageInterface } from "./WorkerFactory.js";
 
 /**
  * @typedef {GLuint} HandleObj
